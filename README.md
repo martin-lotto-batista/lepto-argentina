@@ -4,15 +4,9 @@
 
 <div align="justify">
 
-Data and R code to support Lotto Batista, Rees et al., (2023). Towards a Leptospirosis Early Warning System in North-Eastern Argentina. *The Journal of the Royal Society Interface.* [DOI](DOI)
+Data and R code to support Lotto Batista, Rees et al., (2023). Towards a Leptospirosis Early Warning System in North-Eastern Argentina. *The Journal of the Royal Society Interface.*
 
 The analyses were done using R version 4.2.3 (2023-03-15).
-
-To cite this repository:
-
-> *Lotto Batista, Rees, et al. (2023). Data and R code to accompany 'Towards a Leptospirosis Early Warning System in North-Eastern Argentina' (Version v1.0.0). Zenodo. [DOI](http://doi.org/XXX)*
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4632205.svg)](https://doi.org/XXX)
 
 ## Abstract    
 Leptospirosis is a zoonotic disease with a high burden in Latin America, including North-Eastern Argentina, where flooding events linked to El Niño are associated with leptospirosis outbreaks. The aim of this study was to evaluate the value of using hydrometeorological indicators to predict leptospirosis outbreaks in this region. 
